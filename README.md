@@ -85,12 +85,6 @@ Then choose from the menu:
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here after uploading)*
-
----
-
 ## ⚠️ Legal Disclaimer
 
 > **This tool is for educational purposes and authorized security testing ONLY.**  
@@ -114,12 +108,9 @@ Pull requests are welcome! If you have new dork ideas or category suggestions, f
 
 ## 👤 Author
 
-**Anurag**  
-BCA Student | Cybersecurity Enthusiast | Bug Bounty Hunter  
+**Anurag Sunil**  
+Cybersecurity Enthusiast | Bug Bounty Hunter  
 🔗 [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
