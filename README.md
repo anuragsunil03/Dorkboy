@@ -110,7 +110,7 @@ Pull requests are welcome! If you have new dork ideas or category suggestions, f
 
 **Anurag Sunil**  
 Cybersecurity Enthusiast | Bug Bounty Hunter  
-🔗 [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [GitHub](https://github.com/anuragsunil03)
 
 ---
 
